@@ -1,0 +1,940 @@
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.json
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.genruntimeconfig.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\assets\Styles.css
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\libwkhtmltox.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CoreCompileInputs.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.genruntimeconfig.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\assets\Styles.css
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\libwkhtmltox.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\assets\Styles.css
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\libwkhtmltox.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.Development.json
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.json
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\assets\Styles.css
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\libwkhtmltox.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\assets\Styles.css
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\libwkhtmltox.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.deps.json
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.json
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.runtimeconfig.dev.json
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DAL.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.DBModels.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.EntityModels.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\bin\Debug\netcoreapp2.2\IFacilityMaini.Interface.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csprojAssemblyReference.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorAssemblyInfo.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfoInputs.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.AssemblyInfo.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.input.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.TagHelpers.output.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorCoreGenerate.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.RazorTargetAssemblyInfo.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.Views.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.csproj.CopyComplete
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini\obj\Debug\netcoreapp2.2\IFacilityMaini.pdb

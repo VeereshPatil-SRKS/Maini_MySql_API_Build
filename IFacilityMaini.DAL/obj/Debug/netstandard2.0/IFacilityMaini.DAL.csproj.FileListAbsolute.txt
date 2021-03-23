@@ -1,0 +1,445 @@
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+C:\Users\veeresh\Desktop\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CoreCompileInputs.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.deps.json
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DAL.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.DBModels.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.EntityModels.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\bin\Debug\netstandard2.0\IFacilityMaini.Interface.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csprojAssemblyReference.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.Resource.ResourceResponse.resources
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.GenerateResource.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfoInputs.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.AssemblyInfo.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.csproj.CopyComplete
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DAL\obj\Debug\netstandard2.0\IFacilityMaini.DAL.pdb

@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace IFacilityMaini.DBModels
+{
+    public partial class UnitworkccsTblAutoreportbasedon
+    {
+        public UnitworkccsTblAutoreportbasedon()
+        {
+            UnitworkccsTblAutoreportsetting = new HashSet<UnitworkccsTblAutoreportsetting>();
+        }
+
+        public int BasedOnId { get; set; }
+        public string BasedOn { get; set; }
+        public string Desc { get; set; }
+        public DateTime? CreatedOn { get; set; }
+        public int? CreatedBy { get; set; }
+        public DateTime? ModifiedOn { get; set; }
+        public int? ModifiedBy { get; set; }
+        public int? IsDeleted { get; set; }
+
+        public virtual ICollection<UnitworkccsTblAutoreportsetting> UnitworkccsTblAutoreportsetting { get; set; }
+    }
+}

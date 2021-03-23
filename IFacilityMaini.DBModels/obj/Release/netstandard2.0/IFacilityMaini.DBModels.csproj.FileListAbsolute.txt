@@ -1,0 +1,226 @@
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Projects\Live Projects\SAMSFRC\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Suhas\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\MainiLatest\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\mainiBackup\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\mainiOpFinalBuild\IFacilityMainiAPI (1)\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\IFacilityMainiAPI (1)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\apinew\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\opServerBuild\IFacilityMainiAPI\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+C:\Users\SRKSDEV007\Downloads\deploy\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\new Changes\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\new Changes\API\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\AnjaliNew\new Changes\API\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\new Changes\API\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\AnjaliNew\new Changes\API\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\AnjaliNew\new Changes\API\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\AnjaliNew\new Changes\API\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\AnjaliNew\new Changes\API\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\AnjaliNew\new Changes\API\IFacilityMainiAPI (2)\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Anjali\16032020\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Maini\IFacilityMainiAPI (2) new\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\veeresh\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csproj.CoreCompileInputs.cache
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+D:\Maini\MainiBuild30-7-2020-0\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\MainiSQLBuils-main (2)\MainiSQLBuils-main\API\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+E:\Maini_Latest_API_BAckend_Builds_25-12-2020\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+G:\mysqlMainiWorking_API30-12-2020\API_original - Copy\API_original - Copy\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.deps.json
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DBModels\bin\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.csprojAssemblyReference.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfoInputs.cache
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.AssemblyInfo.cs
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.dll
+C:\Maini_Mysql__Live_API_15_02_2021\Maini_Mysql_API_8_0_21_15022021\IFacilityMaini.DBModels\obj\Release\netstandard2.0\IFacilityMaini.DBModels.pdb
